@@ -29,8 +29,7 @@ ChatGPT：
 
 Gamma.app:
 
-|   Ação   |  prompt
-
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | conteúdo | Faça um texto para ebook, com foco em liderança feminina, listando os principais conceitos de liderança, deixe o texto enxuto, agradável e divertido , sempre deixe um título sugestivo por tópico  |
 
