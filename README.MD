@@ -8,7 +8,9 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 seguem abaixo.
 
 ## LIDERANÇA FEMININA: DESCUBRA OS SEGREDOS DO SUCESSO
-
+<p align="center">
+    <img width="100" src=".github/assets/Imagem%20capa%20ebook.JPG">
+</p>
 Ebook disponível em "https://gamma.app/docs/Lideranca-Feminina-Descubra-os-Segredos-do-Sucesso-rgjj5pnvmywp96y?mode=doc //
 
 ## 💻 Tecnologias utilizadas no projeto
