@@ -7,7 +7,9 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://gamma.app/docs/Lideranca-Feminina-Descubra-os-Segredos-do-Sucesso-rgjj5pnvmywp96y?mode=doc //
+LIDERANÇA FEMININA: DESCUBRA OS SEGREDOS DO SUCESSO
+
+Ebook disponível em "https://gamma.app/docs/Lideranca-Feminina-Descubra-os-Segredos-do-Sucesso-rgjj5pnvmywp96y?mode=doc //
 
 ## 💻 Tecnologias utilizadas no projeto
 
